@@ -1,0 +1,210 @@
+[
+  {
+    "question": "What is the minimum attendance percentage required for exams?",
+    "answer": "Page 1 Sample PDF 2 \u2014 Attendance & Academic Policy Practice document for the Generative AI RAG project Minimum Attendance Students must maintain a minimum of 75% attendance in each course to be eligible for the regular end-semester examination. Attendance is calculated separately for each course. Attendance Between 65% and 74% A student with attendance between 65% and 74% may apply for attendance condonation when supported by an approved reason. The maximum condonation permitted is 10 percentage points, subject to institutional approval. Attendance Below 65% Students with attendance below 65% are normally not eligible for condonation and may be detained from the regular examination. Medical Leave Medical leave must be supported by appropriate medical documentation. Submission of medical documents does not automatically guarantee approval. Attendance Calculation Attendance percentage = classes attended \u00f7 classes conducted \u00d7 100. Example: if a student attends 42 out of 50 classes, attendance is 84%. Leave Rules Students should obtain approval before taking planned leave whenever possible. Emergency leave should be reported to the department as soon as practical. Important Note Students are responsible for checking",
+    "top_score": 0.3811,
+    "used_llm": false,
+    "sources": [
+      {
+        "source": "attendance_policy.pdf",
+        "page": 1,
+        "score": 0.3811,
+        "chunk_id": 2
+      },
+      {
+        "source": "academic_calendar.pdf",
+        "page": 1,
+        "score": 0.1859,
+        "chunk_id": 0
+      },
+      {
+        "source": "attendance_policy.pdf",
+        "page": 1,
+        "score": 0.1338,
+        "chunk_id": 3
+      }
+    ]
+  },
+  {
+    "question": "What is the tuition fee for B.Tech Computer Science per semester?",
+    "answer": "Page 1 Sample PDF 1 \u2014 College Fee Structure Practice document for the Generative AI RAG project Institution ABC Institute of Technology Undergraduate Programs B.Tech \u2014 Computer Science: I80,000 per semester. B.Tech \u2014 Electronics: I72,000 per semester. B.Tech \u2014 Mechanical: I68,000 per semester. Postgraduate Programs M.Tech \u2014 Artificial Intelligence: I95,000 per semester. MBA: I75,000 per semester. Additional Charges Admission processing fee: I2,000 one time. Examination fee: I1,500 per semester. Library fee: I1,000 per semester. Technology fee: I2,500 per semester. Hostel Charges Standard hostel: I45,000 per semester. Premium hostel: I60,000 per semester. Hostel charges do not include the refundable security deposit of I5,000. Payment Schedule At least 50% of the semester tuition fee must be paid before the semester begins. The remaining amount must be paid by the end of the first month of the semester. Late payment attracts a late fee of I500 per week. Refund Policy If admission is cancelled before the semester begins, 80% of the tuition fee is refundable. After the semester begins, tuition fees are generally non-refundable. Examination and processing fees are non-refundable. Scholarships Merit scholarship:",
+    "top_score": 0.5426,
+    "used_llm": false,
+    "sources": [
+      {
+        "source": "fee_structure.pdf",
+        "page": 1,
+        "score": 0.5426,
+        "chunk_id": 4
+      },
+      {
+        "source": "fee_structure.pdf",
+        "page": 1,
+        "score": 0.3349,
+        "chunk_id": 5
+      },
+      {
+        "source": "academic_calendar.pdf",
+        "page": 1,
+        "score": 0.1693,
+        "chunk_id": 0
+      }
+    ]
+  },
+  {
+    "question": "When does the Semester I end-semester examination take place?",
+    "answer": "Page 1 Sample PDF 3 \u2014 Academic Calendar & Examination Rules Practice document for the Generative AI RAG project Academic Year The academic year is divided into two regular semesters: Semester I and Semester II. Semester I Classes begin: 15 July. Mid-semester assessment: 10\u201314 September. Classes end: 20 November. End-semester examinations: 25 November\u201310 December. Results: published by 5 January. Semester II Classes begin: 5 January. Mid-semester assessment: 10\u201314 March. Classes end: 20 April. End-semester examinations: 25 April\u201310 May. Results: published by 25 May. Examination Eligibility Students must satisfy the minimum attendance requirement and complete required academic components before appearing for the regular end-semester examination. Students who do not meet eligibility requirements must contact the academic office for the applicable procedure. Grading A+: 90\u2013100 A: 80\u201389 B+: 70\u201379 B: 60\u201369 C: 50\u201359 F: below 50 Re-Examination A student who is eligible for a supplementary or re-examination must apply within the published application period. Re-examination dates are announced separately by the examination office. General Rule The academic office may issue updates or corrections to the calendar. Students should use the latest officially",
+    "top_score": 0.3871,
+    "used_llm": false,
+    "sources": [
+      {
+        "source": "academic_calendar.pdf",
+        "page": 1,
+        "score": 0.3871,
+        "chunk_id": 0
+      },
+      {
+        "source": "fee_structure.pdf",
+        "page": 1,
+        "score": 0.2889,
+        "chunk_id": 4
+      },
+      {
+        "source": "academic_calendar.pdf",
+        "page": 1,
+        "score": 0.1979,
+        "chunk_id": 1
+      }
+    ]
+  },
+  {
+    "question": "What is the refund percentage if admission is cancelled before the semester begins?",
+    "answer": "Answer not found in the provided documents.",
+    "top_score": 0.3027,
+    "used_llm": false,
+    "sources": [
+      {
+        "source": "fee_structure.pdf",
+        "page": 1,
+        "score": 0.3027,
+        "chunk_id": 5
+      },
+      {
+        "source": "fee_structure.pdf",
+        "page": 1,
+        "score": 0.2701,
+        "chunk_id": 4
+      },
+      {
+        "source": "academic_calendar.pdf",
+        "page": 1,
+        "score": 0.1998,
+        "chunk_id": 0
+      }
+    ]
+  },
+  {
+    "question": "What grade is awarded for marks between 70 and 79?",
+    "answer": "Answer not found in the provided documents.",
+    "top_score": 0.1704,
+    "used_llm": false,
+    "sources": [
+      {
+        "source": "attendance_policy.pdf",
+        "page": 1,
+        "score": 0.1704,
+        "chunk_id": 2
+      },
+      {
+        "source": "academic_calendar.pdf",
+        "page": 1,
+        "score": 0.1364,
+        "chunk_id": 0
+      },
+      {
+        "source": "fee_structure.pdf",
+        "page": 1,
+        "score": 0.1006,
+        "chunk_id": 5
+      }
+    ]
+  },
+  {
+    "question": "What is the hostel curfew time?",
+    "answer": "Answer not found in the provided documents.",
+    "top_score": 0.208,
+    "used_llm": false,
+    "sources": [
+      {
+        "source": "fee_structure.pdf",
+        "page": 1,
+        "score": 0.208,
+        "chunk_id": 4
+      },
+      {
+        "source": "fee_structure.pdf",
+        "page": 1,
+        "score": 0.1232,
+        "chunk_id": 5
+      },
+      {
+        "source": "academic_calendar.pdf",
+        "page": 1,
+        "score": 0.1096,
+        "chunk_id": 0
+      }
+    ]
+  },
+  {
+    "question": "Is there a fee waiver for sports achievements?",
+    "answer": "Answer not found in the provided documents.",
+    "top_score": 0.3095,
+    "used_llm": false,
+    "sources": [
+      {
+        "source": "fee_structure.pdf",
+        "page": 1,
+        "score": 0.3095,
+        "chunk_id": 5
+      },
+      {
+        "source": "fee_structure.pdf",
+        "page": 1,
+        "score": 0.236,
+        "chunk_id": 4
+      },
+      {
+        "source": "attendance_policy.pdf",
+        "page": 1,
+        "score": 0.1384,
+        "chunk_id": 2
+      }
+    ]
+  },
+  {
+    "question": "How many classes can I skip and still be allowed to sit for exams?",
+    "answer": "Answer not found in the provided documents.",
+    "top_score": 0.3125,
+    "used_llm": false,
+    "sources": [
+      {
+        "source": "attendance_policy.pdf",
+        "page": 1,
+        "score": 0.3125,
+        "chunk_id": 2
+      },
+      {
+        "source": "academic_calendar.pdf",
+        "page": 1,
+        "score": 0.2008,
+        "chunk_id": 0
+      },
+      {
+        "source": "attendance_policy.pdf",
+        "page": 1,
+        "score": 0.1638,
+        "chunk_id": 3
+      }
+    ]
+  }
+]
